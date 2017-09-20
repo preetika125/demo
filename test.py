@@ -20,3 +20,4 @@ do_twice(print_twice, 'spam')
 print('')
 
 do_four(print_twice, 'spam')
+print('')
